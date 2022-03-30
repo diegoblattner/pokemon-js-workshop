@@ -1,0 +1,17 @@
+.app {
+  padding-bottom: 3rem;
+}
+
+.content {
+  margin: 0 auto;
+  padding: 2rem 0 0;
+  max-width: 72rem;
+}
+
+.pokemonList {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  gap: 1rem;
+}

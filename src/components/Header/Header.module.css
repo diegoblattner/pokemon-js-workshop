@@ -1,0 +1,15 @@
+.header {
+  background-color: #ef5350;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  height: 3.125rem;
+  color: white;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
